@@ -1,0 +1,18 @@
+{
+  "latest": "1.0.0",
+  "minSupported": "1.0.0",
+  "changelog": "## v1.0.0\n\n- Initial release",
+  "assets": {
+    "windows_exe": {
+      "url": "https://github.com/PickleMcThunderpants/streamforge-releases/releases/download/v1.0.0/StreamForge-1.0.0-Setup.exe",
+      "size": 0,
+      "sha256": ""
+    },
+    "android_apk": {
+      "url": "https://github.com/PickleMcThunderpants/streamforge-releases/releases/download/v1.0.0/StreamForge-1.0.0.apk",
+      "size": 0,
+      "sha256": ""
+    }
+  },
+  "releaseDate": "2026-04-02T00:00:00Z"
+}
