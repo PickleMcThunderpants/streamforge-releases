@@ -1,18 +1,18 @@
 {
-    "releaseDate":  "2026-04-23T15:41:55Z",
-    "changelog":  "## v0.0.57\n\n- ",
+    "releaseDate":  "2026-04-23T16:15:13Z",
+    "changelog":  "## v0.0.58\n\n- ",
     "assets":  {
                    "windows_exe":  {
-                                       "url":  "https://github.com/PickleMcThunderpants/streamforge-releases/releases/download/v0.0.57/StreamForge-0.0.57-Setup.exe",
-                                       "sha256":  "7d86d31b4638181fcc36a73dbaaa43b365ef09e3c4235319847aeaeef38bb536",
-                                       "size":  28448108
+                                       "url":  "https://github.com/PickleMcThunderpants/streamforge-releases/releases/download/v0.0.58/StreamForge-0.0.58-Setup.exe",
+                                       "sha256":  "1f9aa6933f59171bbb7dc0c47263e76dccc3d812ef218ddd09606de5e6d51664",
+                                       "size":  28449270
                                    },
                    "android_apk":  {
-                                       "url":  "https://github.com/PickleMcThunderpants/streamforge-releases/releases/download/v0.0.57/StreamForge-0.0.57.apk",
-                                       "sha256":  "6480b07c26b895420c4511ce6e05402d197c61fe946b9d425054050bf5ba8a16",
-                                       "size":  123309850
+                                       "url":  "https://github.com/PickleMcThunderpants/streamforge-releases/releases/download/v0.0.58/StreamForge-0.0.58.apk",
+                                       "sha256":  "bb4fb06bff03c5f797742a8009eb4ba745d591bb7057928e80baa277737d59ec",
+                                       "size":  123309854
                                    }
                },
-    "latest":  "0.0.57",
+    "latest":  "0.0.58",
     "minSupported":  "0.0.53"
 }
